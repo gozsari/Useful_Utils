@@ -6,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-## Tools facilitate our work
+## Tools facilitate your work
 ### 1- Extracting the table from the PDF files:
 - You can extract the table from the PDF files using the `extract_pdf_tables.py` file.
 - Input files should be located in the **input** directory.
