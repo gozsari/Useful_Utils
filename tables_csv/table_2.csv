@@ -1,0 +1,12 @@
+Random-split,Bioactivity datapoints,,,Proteins,,,Compounds,,
+Protein family,train,test,ratio,train,test,ratio,train,test,ratio
+epigenetic-regulators,16675,1489,11.2,117,83,1.4,9797,1388,7.1
+hydrolases,59021,3924,15,610,304,2,46575,3851,12.1
+ion-channels,31287,2945,10.6,213,142,1.5,27961,2898,9.6
+membrane-receptors,197919,8256,24,636,428,1.5,121954,8030,15.2
+other-enzymes,29465,3385,8.7,442,256,1.7,16757,3040,5.5
+oxidoreductases,52277,2201,23.8,402,240,1.7,38277,2169,17.6
+proteases,83561,3700,22.6,389,219,1.8,54628,3598,15.2
+transcription-factors,23498,1578,14.9,118,80,1.5,16465,1529,10.8
+transferases,150247,9717,15.5,980,634,1.5,100462,9070,11.1
+transporters,26313,2048,12.8,188,114,1.6,17141,1958,8.8
